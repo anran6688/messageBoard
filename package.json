@@ -1,0 +1,20 @@
+{
+  "name": "xiangmu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-static": "^1.1.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "mysql": "^2.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

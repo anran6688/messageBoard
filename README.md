@@ -1,2 +1,2 @@
 # messageBoard
-Easy message board
+Easy messageBoard
